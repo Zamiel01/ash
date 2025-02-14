@@ -1102,6 +1102,9 @@ p {
   font-size: 1.2em;
 }
 .next-button {
+  position: relative;
+  bottom: -150px;
+  left: 500px;
   background-color: #e63946; /* Red color for Valentine's */
   color: white;
   border: none;
